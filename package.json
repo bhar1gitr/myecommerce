@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhar1gitr/myecommerce.git"
+  },
+  "author": "bharat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhar1gitr/myecommerce/issues"
+  },
+  "homepage": "https://github.com/bhar1gitr/myecommerce#readme"
+}
